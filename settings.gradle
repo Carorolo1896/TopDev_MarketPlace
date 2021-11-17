@@ -1,0 +1,2 @@
+rootProject.name = "TopDev_MarketPlace"
+include ':app'
